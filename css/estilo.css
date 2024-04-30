@@ -48,12 +48,14 @@ header {
 }
 #carousel-item1 {
     background-image: url(./img/banner1.PNG);
+    bakground-repeat: no-repeat;
+    background-size: cover;
 }
 #carousel-item2 {
-    background-image: url(./img/banner2.PNG)
+    background-image: url(./img/banner2.PNG);
 }
 #carousel-item3 {
-    background-image: url(./img/banner3.PNG)
+    background-image: url(./img/banner3.PNG);
 }
 
 .carousel-control-prev-icon {
