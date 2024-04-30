@@ -1,8 +1,6 @@
 
 /*cabeçalho*/
-body {
-    height: 100vh;
-}
+
 header {
     background-image: linear-gradient(20deg, rgba(194, 162, 187, 0.815) 10%, rgb(255, 255, 255),rgb(190, 92, 236));
     
@@ -46,10 +44,9 @@ header {
     background-size: 100% 100%;
     background-position: center;
 }
+/* Bakground dos slides */
 #carousel-item1 {
-    background-image: url(./img/banner1.PNG);
-    bakground-repeat: no-repeat;
-    background-size: cover;
+    background-image: url(../img/banner1.PNG);
 }
 #carousel-item2 {
     background-image: url(../img/banner2.PNG);
